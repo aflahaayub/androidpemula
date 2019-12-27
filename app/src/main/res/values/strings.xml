@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">Komponen Elektronika</string>
+
+    <string name="nama_benda">Nama Benda Elektronika</string>
+
+    <string name="detail_benda">Detail Benda Elektronika</string>
+
+    <string name="about">About Developer</string>
+
+    <string name="penjelasan_dioda">Dioda atau dalam bahasa Inggris disebut dengan Diode adalah komponen elektronika yang dapat menghantarkan arus listrik ke satu arah saja.
+
+        Jika arah arusnya terbalik, maka Dioda akan menghambat arus listrik tersebut. Karena sifatnya yang dapat menghantarkan arus listrik ke satu arah (forward bias) dan menghambat arus listrik dari arah sebaliknya (reverse bias), dioda yang terbuat dari bahan semikonduktor ini sering digunakan sebagai penyearah bentuk gelombang (wave rectifier) dalam pencatu daya dan detektor radio. Dioda juga sering digunakan pada rangkaian-rangkaian listrik dan elektronika yang memerlukan hasil “satu arah”. Bahan semikonduktor yang sering digunakan untuk membuat Dioda adalaah bahan Silikon (Si) dan bahan Germanium (Ge).
+
+        Ada berbagai jenis dioda yang dibuat sesuai dengan fungsinya tanpa meninggalkan karakteristik serta spesifikasinya, seperti dioda penyearah (rectifier), dioda Emisi Cahaya (LED), dioda Zenner, dioda photo (Photo-Dioda) dan Dioda Varactor.</string>
+
+    <string name="penjelasan_resistor">Resistor merupakan salah satu komponen yang paling sering ditemukan dalam Rangkaian Elektronika. Hampir setiap peralatan Elektronika menggunakannya. Pada dasarnya Resistor adalah komponen Elektronika Pasif yang memiliki nilai resistansi atau hambatan tertentu yang berfungsi untuk membatasi dan mengatur arus listrik dalam suatu rangkaian Elektronika.
+
+        Resistor atau dalam bahasa Indonesia sering disebut dengan Hambatan atau Tahanan dan biasanya disingkat dengan Huruf “R”. Satuan Hambatan atau Resistansi Resistor adalah OHM (Ω). Sebutan “OHM” ini diambil dari nama penemunya yaitu Georg Simon Ohm yang juga merupakan seorang Fisikawan Jerman.</string>
+
+    <string name="penjelasan_lcd">LCD atau Liquid Crystal Display adalah suatu jenis media display (tampilan) yang menggunakan kristal cair (liquid crystal) untuk menghasilkan gambar yang terlihat. Teknologi Liquid Crystal Display (LCD) atau Penampil Kristal Cair sudah banyak digunakan pada produk-produk seperti layar Laptop, layar Ponsel, layar Kalkulator, layar Jam Digital, layar Multimeter, Monitor Komputer, Televisi, layar Game portabel, layar Thermometer Digital dan produk-produk elektronik lainnya.
+
+        Teknologi Display LCD ini memungkinkan produk-produk elektronik dibuat menjadi jauh lebih tipis jika dibanding dengan teknologi Tabung Sinar Katoda (Cathode Ray Tube atau CRT). Jika dibandingkan dengan teknologi CRT, LCD juga jauh lebih hemat dalam mengkonsumsi daya karena LCD bekerja berdasarkan prinsip pemblokiran cahaya sedangkan CRT berdasarkan prinsip pemancaran cahaya. Namun LCD membutuhkan lampu backlight (cahaya latar belakang) sebagai cahaya pendukung karena LCD sendiri tidak memancarkan cahaya.
+
+        Beberapa jenis backlight yang umum digunakan untuk LCD diantaranya adalah backlight CCFL (Cold cathode fluorescent lamps) dan backlight LED (Light-emitting diodes).</string>
+
+    <string name="penjelasan_kapasitor">Kapasitor (Capacitor) atau disebut juga dengan Kondensator (Condensator) adalah Komponen Elektronika Pasif yang dapat menyimpan muatan listrik dalam waktu sementara dengan satuan kapasitansinya adalah Farad. Satuan Kapasitor tersebut diambil dari nama penemunya yaitu Michael Faraday (1791 ~ 1867) yang berasal dari Inggris. Namun Farad adalah satuan yang sangat besar, oleh karena itu pada umumnya Kapasitor yang digunakan dalam peralatan Elektronika adalah satuan Farad yang dikecilkan menjadi pikoFarad, NanoFarad dan MicroFarad.
+
+        Kapasitor merupakan Komponen Elektronika yang terdiri dari 2 pelat konduktor yang pada umumnya adalah terbuat dari logam dan sebuah Isolator diantaranya sebagai pemisah. Dalam Rangkaian Elektronika, Kapasitor disingkat dengan huruf “C”.</string>
+
+    <string name="penjelasan_ic">Integrated Circuit atau disingkat dengan IC adalah Komponen Elektronika Aktif yang terdiri dari gabungan ratusan, ribuan bahkan jutaan Transistor, Dioda, Resistor dan Kapasitor yang diintegrasikan menjadi suatu Rangkaian Elektronika dalam sebuah kemasan kecil. Bahan utama yang membentuk sebuah Integrated Circuit (IC) adalah Bahan Semikonduktor. Silicon merupakan bahan semikonduktor yang paling sering digunakan dalam Teknologi Fabrikasi Integrated Circuit (IC). Dalam bahasa Indonesia, Integrated Circuit atau IC ini sering diterjemahkan menjadi Sirkuit Terpadu.</string>
+
+    <string name="penjelasan_induktor">Induktor atau dikenal juga dengan Coil adalah Komponen Elektronika Pasif yang terdiri dari susunan lilitan Kawat yang membentuk sebuah Kumparan. Pada dasarnya, Induktor dapat menimbulkan Medan Magnet jika dialiri oleh Arus Listrik. Medan Magnet yang ditimbulkan tersebut dapat menyimpan energi dalam waktu yang relatif singkat. Dasar dari sebuah Induktor adalah berdasarkan Hukum Induksi Faraday.
+
+        Kemampuan Induktor atau Coil dalam menyimpan Energi Magnet disebut dengan Induktansi yang satuan unitnya adalah Henry (H). Satuan Henry pada umumnya terlalu besar untuk Komponen Induktor yang terdapat di Rangkaian Elektronika.
+
+        Oleh Karena itu, Satuan-satuan yang merupakan turunan dari Henry digunakan untuk menyatakan kemampuan induktansi sebuah Induktor atau Coil. Satuan-satuan turunan dari Henry tersebut diantaranya adalah milihenry (mH) dan microhenry (µH). Simbol yang digunakan untuk melambangkan Induktor dalam Rangkaian Elektronika adalah huruf </string>
+
+    <string name="penjelasan_buzzer">Buzzer Listrik adalah sebuah komponen elektronika yang dapat mengubah sinyal listrik menjadi getaran suara. Pada umumnya, Buzzer yang merupakan sebuah perangkat audio ini sering digunakan pada rangkaian anti-maling, Alarm pada Jam Tangan, Bel Rumah, peringatan mundur pada Truk dan perangkat peringatan bahaya lainnya.
+
+        Jenis Buzzer yang sering ditemukan dan digunakan adalah Buzzer yang berjenis Piezoelectric, hal ini dikarenakan Buzzer Piezoelectric memiliki berbagai kelebihan seperti lebih murah, relatif lebih ringan dan lebih mudah dalam menggabungkannya ke Rangkaian Elektronika lainnya. Buzzer yang termasuk dalam keluarga Transduser ini juga sering disebut dengan Beeper.</string>
+
+    <string name="penjelasan_powersupply">Power Supply atau dalam bahasa Indonesia disebut dengan Catu Daya adalah suatu alat listrik yang dapat menyediakan energi listrik untuk perangkat listrik ataupun elektronika lainnya.  Pada dasarnya Power Supply atau Catu daya ini memerlukan sumber energi listrik yang kemudian mengubahnya menjadi energi listrik yang dibutuhkan oleh perangkat elektronika lainnya. Oleh karena itu, Power Supply kadang-kadang disebut juga dengan istilah Electric Power Converter.</string>
+
+    <string name="penjelasan_switch">Saklar atau dalam bahasa Inggris disebut Switch adalah salah satu komponen yang penting dalam setiap rangkaian atau perangkat elektronik. Seperti pada artikel yang disebutkan sebelumnya, Saklar atau Switch adalah perangkat yang digunakan untuk memutuskan atau menghubungkan aliran arus listrik. Meskipun saat ini telah banyak yang menggunakan saklar atau switch elektronik yang menggunakan sensor ataupun rangkaian yang terdiri komponen semikonduktor seperti transistor, IC dan dioda. Namun saklar mekanik atau mechanical switch masih tetap memegang peranan penting pada hampir semua perangkat atau peralatan listrik dan elektronik.
+
+        Saklar pada dasarnya merupakan perangkat mekanik yang terdiri dari dua atau lebih terminal yang terhubung secara internal ke bilah atau kontak logam yang dapat dibuka dan ditutup oleh penggunanya. Aliran listrik akan mengalir apabila suatu kontak dihubungkan dengan kontak lainnya. Sebaliknya, aliran listrik akan terputus apabila hubungan tersebut dibuka atau dipisahkan.
+
+        Selain sebagai komponen untuk menghidupkan (ON) dan mematikan (OFF) perangkat elektronik, Saklar sering juga difungsikan sebagai pengendali untuk mengaktifkan fitur-fitur tertentu pada suatu rangkaian listrik. Contohnya seperti pengatur tegangan pada pencatu daya, Sebagai pengatur Volume di Ponsel ataupun sebagai pengatur. </string>
+
+    <string name="penjelasan_trafo">Transformator atau sering disingkat dengan istilah Trafo adalah suatu alat listrik yang dapat mengubah taraf suatu tegangan AC ke taraf yang lain. Maksud dari pengubahan taraf tersebut diantaranya seperti menurunkan Tegangan AC dari 220VAC ke 12 VAC ataupun menaikkan Tegangan dari 110VAC ke 220 VAC.
+
+        Transformator atau Trafo ini bekerja berdasarkan prinsip Induksi Elektromagnet dan hanya dapat bekerja pada tegangan yang berarus bolak balik (AC).Transformator (Trafo) memegang peranan yang sangat penting dalam pendistribusian tenaga listrik. Transformator menaikan listrik yang berasal dari pembangkit listrik PLN hingga ratusan kilo Volt untuk di distribusikan, dan kemudian Transformator lainnya menurunkan tegangan listrik tersebut ke tegangan yang diperlukan oleh setiap rumah tangga maupun perkantoran yang pada umumnya menggunakan Tegangan AC 220Volt.</string>
+
+    <string name="penjelasan_solenoida">Solenoida atau Solenoid adalah perangkat elektromagnetik yang dapat mengubah energi listrik menjadi energi gerakan. Energi gerakan yang dihasilkan oleh Solenoid biasanya hanya gerakan mendorong (push) dan menarik (pull).
+
+        Pada dasarnya, Solenoid hanya terdiri dari sebuah kumparan listrik (electrical coil) yang dililitkan di sekitar tabung silinder dengan aktuator ferro-magnetic atau sebuah Plunger yang bebas bergerak “Masuk” dan “Keluar” dari bodi kumparan. Sebagai informasi tambahan, yang dimaksud dengan Aktuator (actuator) adalah sebuah peralatan mekanis yang dapat bergerak atau mengontrol suatu mekanisme. Solenoid juga tergolong sebagai keluarga Transduser, yaitu perangkat yang dapat mengubah suatu energi ke energi lainnya.</string>
+    <string name="back">BACK</string>
+    <string name="aflaha_ayub">Aflaha Ayub</string>
+    <string name="email">aflaha25@gmail.com</string>
+    <string name="detail_me">Perempuan yang lahir di Jakarta pada tanggal 25 Agustus 2000.
+                            Saat ini kuliah di UNJ, jurusan Pendidikan Teknik Elektronika.</string>
+    <string name="aboutDeveloper">About</string>
+
+</resources>
